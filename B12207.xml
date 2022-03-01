@@ -1,0 +1,500 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter sent from an English gentleman, lately become a Catholike beyond the seas, to his Protestant friend in England in answere to some points, wherin his opinion was required, concerning the present busines of the Palatinate, &amp; marriage with Spayne : and also declaring his reasons for the change of his religion.</title>
+            <author>Crynes, N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1622</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12207</idno>
+            <idno type="STC">STC 5742.7</idno>
+            <idno type="STC">ESTC S1070</idno>
+            <idno type="EEBO-CITATION">20034115</idno>
+            <idno type="OCLC">ocm 20034115</idno>
+            <idno type="VID">178483</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12207)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178483)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1727:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter sent from an English gentleman, lately become a Catholike beyond the seas, to his Protestant friend in England in answere to some points, wherin his opinion was required, concerning the present busines of the Palatinate, &amp; marriage with Spayne : and also declaring his reasons for the change of his religion.</title>
+                  <author>Crynes, N.</author>
+               </titleStmt>
+               <extent>51 p.   </extent>
+               <publicationStmt>
+                  <publisher>English College Press],</publisher>
+                  <pubPlace>[St. Omer :</pubPlace>
+                  <date>M.DC.XXII. [1622]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 50: N. Crynes.</note>
+                  <note>Place of imprint and name of publisher suggested by STC (2nd ed.).</note>
+                  <note>Signatures: A-C⁸ D².</note>
+                  <note>Imperfect: odd number pages filmed first, followed by even number pages.</note>
+                  <note>Reproduction of original in the St. John's College (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Apologetic works.</term>
+               <term>Palatinate (Germany) --  History --  Frederick V, 1610-1623.</term>
+               <term>Europe --  History --  1517-1648.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178483:1"/>
+            <pb facs="tcp:178483:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE COPY OF A LETTER</hi> Sent from an Engliſh Gentleman, lately become a Catholike beyond the ſeas, to his Proteſtant friend in England. In anſwere to ſome points, wherin his opini<g ref="char:EOLhyphen"/>on was required, concerning the preſent buſines of the <hi>Palatinate,</hi> &amp; marriage with <hi>Spayne:</hi> And alſo declaring his reaſons for the change of his Religion.</p>
+            <p>
+               <hi>M.DC.XXII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:178483:2"/>
+            <pb n="3" facs="tcp:178483:2"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:178483:3"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:178483:3"/>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">V</seg>ERY VVORTHY AND VVELVVI<g ref="char:EOLhyphen"/>SHED FRIEND.</salute>
+            </opener>
+            <p>Whereas in your letter which I laſt receaued, you deſire to be by me infor<g ref="char:EOLhyphen"/>med of the preſent ſtate of thinges tou<g ref="char:EOLhyphen"/>ching the Palſgraue, or Prince <hi>Palatine:</hi> As alſo what opinion we haue in theſe parts of the Match between <hi>England</hi> &amp; <hi>Spayne;</hi> I muſt anſwere you that I dare not preſume to exte<g ref="char:cmbAbbrStroke">̄</g>d my own ignora<g ref="char:cmbAbbrStroke">̄</g>ce ſo farre, as to penetrate into the depth of ſuch important matter, or ſo to de<g ref="char:EOLhyphen"/>liuer you my conceyt, as that thereon you might ſettle a reſolued opinion,
+<pb n="4" facs="tcp:178483:4"/> of the future euent. But if you will be pleaſed to vnderſtand what I heare in theſe partes, where ſpeach hath more freedome then in England, and that therunto I may a little adde my priuate opinion, I can be content to enthrall vnto you my thoughts from their pri<g ref="char:EOLhyphen"/>uiledged liberty, ſeeing you can ſo much command me.</p>
+            <p>Firſt then as touching the Prince <hi>Palatine,</hi> it ſhould ſeeme by that I heare, and the ſequell of thinges thereun<g ref="char:EOLhyphen"/>to alſo according, that he is more enclined to harken vnto the directi<g ref="char:EOLhyphen"/>ons of the Hollanders, then vnto the graue aduice of our King his Father-in Law, vnto whome beſides obligation of affinity, he ought both in regard of Maieſty, as alſo of Counſell more wor<g ref="char:EOLhyphen"/>thy to be followed, to haue harkned. For at the very time that his Ma<g ref="char:EOLhyphen"/>ieſty was ſo prouident and carefull for him as to ſend his Embaſſadour Sir <hi>Ri<g ref="char:EOLhyphen"/>chard Weston</hi> to treate with the Arch<g ref="char:EOLhyphen"/>ducheſſe
+<pb n="5" facs="tcp:178483:4"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:178483:5"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:178483:5"/> at Bruxells, about ſome agree<g ref="char:EOLhyphen"/>ment in his behalfe, then did the Hol<g ref="char:EOLhyphen"/>landers as more powerfull ouer him, poſt him away into Germany, there to ſet on foot actions of hoſtility: wher<g ref="char:EOLhyphen"/>unto he obeyed, as not ſeeming to re<g ref="char:EOLhyphen"/>gard the prudent courſe intended by his Father-in-Law to his greater good, but endeauouring to ſatisfy the deſires of thoſe who care not whoſe houſe be on fire, ſo they may warm the<g ref="char:cmbAbbrStroke">̄</g> by the coales.</p>
+            <p>Alſo, whereas his Maieſty, being regardfull of iuſtice and equity, hath ſhewed his diſlike of this Prince his great errour, in accepting at the hands of Rebells the Bohemian Crowne, which appertayned vnto his owne ſo<g ref="char:EOLhyphen"/>ueraygne Lord the Emperour, vnto whome he being a ſubiect, it maketh the caſe ſo much the more diſhonorable and vniuſt; and notwithſtanding that he is driuen out of the ſayd Kingdome, and hath leſſe reaſon to retaine the title, then when he was in it: yet the Hollan<g ref="char:EOLhyphen"/>ders
+<pb n="6" facs="tcp:178483:6"/> ſtill giuing it him (vpon hope that ſome other Crowne may befall him, &amp; that therfore the title of Kingly dignity ſhall not in the meane tyme leaue him) his ambitious blindnes is pleaſed to re<g ref="char:EOLhyphen"/>tayne it, and perhaps to make it the cauſe of his totall Ruyne.</p>
+            <p>And laſtly, wheras it ſeemeth that eare is giuen vnto his Maieſtyes deſyre about a Truce, or perhaps an abſolute Peace and Reconciliation, betweene the ſayd Prince and the Imperiall Ma<g ref="char:EOLhyphen"/>ieſty, to the accompliſhment whereof there ought in all reaſon to follow a ſubmiſſion from the inferiour and o<g ref="char:EOLhyphen"/>ffending ſyde; yet appeareth it not that this Prince is willing to relinquiſh the aforeſayd Tytle, and to yield vnto due ſubmiſſion, by humbly asking pardon and acknowledging his offence, but rather to remayne obſtinate, and fol<g ref="char:EOLhyphen"/>low the counſell of the baggage Hol<g ref="char:EOLhyphen"/>landers, who only diſpoſe of him to their owne endes and purpoſes, not ca<g ref="char:EOLhyphen"/>ring
+<pb n="7" facs="tcp:178483:6"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:178483:7"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:178483:7"/> at all to what calamityes they ex<g ref="char:EOLhyphen"/>poſe him, ſo their owne turnes be ſer<g ref="char:EOLhyphen"/>ued, nor whether in the end he ſinke or ſwimme.</p>
+            <p>Me thinkes, I can compare the ſtate of the Hollanders as now it ſtan<g ref="char:EOLhyphen"/>deth, vnto the ſtate of a Merchant in<g ref="char:EOLhyphen"/>clyning vnto Banke-breaking. They doe owe as I haue byn giuen to vnder<g ref="char:EOLhyphen"/>ſtand by ſuch as ſeeme well to know it, about eight millio<g ref="char:cmbAbbrStroke">̄</g>s of florins, for which they pay intereſt. Their trade &amp; trafike is exceedingly decayed. Their charges ſo great with their <hi>Exercito,</hi> and Preſi<g ref="char:EOLhyphen"/>dies &amp;c. that they are forced to diſ<g ref="char:EOLhyphen"/>burſe euery day, ſome hundreds of pounds more then their comings in do extend vnto. Their good carriage hath byn ſuch, that they haue almoſt out-li<g ref="char:EOLhyphen"/>ued all their friends that were ableſt to haue holpen them. The meanes they haue to continue the warres, they are conſtrayned to preſſe out of the harts of their ſubiects, by moſt grieuous exa<g ref="char:EOLhyphen"/>ctions;
+<pb n="8" facs="tcp:178483:8"/> and being driuen vnto deſpe<g ref="char:EOLhyphen"/>rate tearmes themſelues, they haue drawne this Prince into action, in as bad a cauſe as their owne, and in ſuch a dependance with theirs, that if the one of theſe fall, both may fall togea<g ref="char:EOLhyphen"/>ther for company: for it cannot be o<g ref="char:EOLhyphen"/>therwiſe when the one draweth downe the other with him, while he is falling, and no wonder it is that this may hap<g ref="char:EOLhyphen"/>pen, where good counſell is deſpiſed, and that men will needes be left to their owne folly, and to bake as they haue brewed.</p>
+            <p>You muſt alſo vnderſtand that the Hollanders poſting away the <hi>Pala<g ref="char:EOLhyphen"/>tine</hi> into Germany, was not vpon aſſurance of preferring him to the re<g ref="char:EOLhyphen"/>couery of that which he had forfayted and loſt, but only to keep the forces of the King of Spayne there occupyed, to the end they might not returne to the Netherlandes agaynſt them. But how euer it be, it is in the meane time
+<pb n="9" facs="tcp:178483:8"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:178483:9"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:178483:9"/> ſufficient for the honour of his Maieſty, to haue let al the world ſee that he hath done his endeuours to haue ended theſe broyles with peacefull ſecurity, for the ſparing of much bloud, and auoyding the danger of depending in warre v<g ref="char:EOLhyphen"/>pon the good will of fortune, which now is not like to fall out ſo happily.</p>
+            <p>As for the willingnes of the Puritans and Puritanly affected in England, to contribute (as in your letter you ſigni<g ref="char:EOLhyphen"/>fy) towardes the maintenance of ſome thouſands of men, to the aſſiſtance of this Prince, they do without all doubt reckon without their hoſt, little imagi<g ref="char:EOLhyphen"/>ning what a charge it is to maintayne an army ſo farre of, and what a burthen the continuance thereof would proue to be vnto the Realme; for it could not but proue a warre of long continuance, wherof the ſequell would be the impo<g ref="char:EOLhyphen"/>ueriſhing of the people, by drawing a<g ref="char:EOLhyphen"/>way the welth of the Realme by ſo long laſting tranſportes of money, which
+<pb n="10" facs="tcp:178483:10"/> would neuer come in againe, nor euer bring the Realme any benefit, to re<g ref="char:EOLhyphen"/>compence it: all which his Maieſty as a moſt prouident Prince wiſely foreſee<g ref="char:EOLhyphen"/>ing, beſides the great effuſion of bloud, it moued him to reſolue vpon a ſweeter &amp; more conuenient courſe, if the ene<g ref="char:EOLhyphen"/>myes of peace and quietnes had not in<g ref="char:EOLhyphen"/>terrupted it. And if ſo be his Maieſty ſhall now leaue this Prince vnto him<g ref="char:EOLhyphen"/>ſelfe, ſeeing he hath followed his owne ſelfe will, &amp; the ſiniſter counſell of tur<g ref="char:EOLhyphen"/>bule<g ref="char:cmbAbbrStroke">̄</g>t ſpirits, that accompt their fiſhing beſt in a troubled water, who cannot but thinke that his Maieſty hath ſerued him right? And this is all I can deliuer vnto you of the opinions of ſuch as I haue diſcourſed withall, about this matter.</p>
+            <p>Touching the Match with Spayne, wherof there is now great ſpeech and good apparence, we muſt reſolue that it reſteth moſt in the diſpoſition of God, in whoſe power is the diſpoſing
+<pb n="11" facs="tcp:178483:10"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:178483:11"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:178483:11"/> of all thinges. For myne owne part I dare confidently ſay that I do not think there can a more Great or Honorable Match be found for that Prince, in all the world. And let paſſionate men ſay what they will, certayne it is, that the continuance of peace and friendſhip with Spayne, is as commodious to En<g ref="char:EOLhyphen"/>gland as the keeping of peace &amp; friend<g ref="char:EOLhyphen"/>ſhip with any Countrey whatſoeuer. And this the prudent King <hi>Henry</hi> the ſeauenth his Maieſtyes Anceſtour, well ſaw, when he matched his ſonne and the heyre of his crowne Prince <hi>Arthur,</hi> with the Lady <hi>Catharine,</hi> the Kinges daughter of <hi>Caſtilia,</hi> when there was no ſuch greatnes added vnto it as now there is. And the ſayd Prince fayling, for he was ſickly when he marryed, &amp; dyed before the mariage in all reſpects was conſumate, the ſayd King <hi>Henry</hi> neglected not to procure by diſpenſati<g ref="char:EOLhyphen"/>on the match to be made with his Son <hi>Henry,</hi> who now was become his heyre
+<pb n="12" facs="tcp:178483:12"/> inſteed of the other, and reygned after him by the name of King <hi>Henry</hi> the eight: and albeit this King did put this his marryed wife and moſt vertuous Queene from him, after he had had her about twenty and two yeares, for the loue of <hi>Anne Bullen;</hi> yet was it with<g ref="char:EOLhyphen"/>out any iuſt cauſe, and his match with <hi>Anne Bullen</hi> proued not honorable vn<g ref="char:EOLhyphen"/>to him; for he cauſed her to be behea<g ref="char:EOLhyphen"/>ded for her abhominable adultery; of the truth whereof if any doubt, there is among other teſtimonies yet a letter extant of the Lord <hi>Cromwells,</hi> wherein ſo much is ſignifyed.</p>
+            <p>I know the Puritans and Puritan<g ref="char:EOLhyphen"/>ly affected haue no liking of this new match with Spayne, and that their friendes the Hollanders can in no caſe endure to heare of it, the one in regard of reaſon of State, the other in regard of a long wiſhed Puritanicall diſcipline, according to the Holland Reformati<g ref="char:EOLhyphen"/>on.</p>
+            <pb n="13" facs="tcp:178483:12"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="12" facs="tcp:178483:13"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="13" facs="tcp:178483:13"/>
+            <p>Concerning the Hollanders, who can thinke his Maieſty obliged to for<g ref="char:EOLhyphen"/>beare this match for the giuing of them ſatisfaction, whoſe greateſt deſyre in<g ref="char:EOLhyphen"/>deed is, that the Prince ſhould not match at all, for their more aſſurance of bringing the Houſe of Naſſow to Domineere in England, ſeeing the Prince <hi>Palatine</hi> by his mothers ſide be<g ref="char:EOLhyphen"/>ing of that Houſe, and coming in the right of his wife to that Crowne, En<g ref="char:EOLhyphen"/>gland ſhould then become Hollandes buckler againſt Spayne: &amp; then might come with this Prince into that Re<g ref="char:EOLhyphen"/>alme I know not how many land-leſſe Lords of the ſame Houſe, and he brin<g ref="char:EOLhyphen"/>ging alſo with him, as a Puritan Meſſi<g ref="char:EOLhyphen"/>as, their long deſired Reformation; how fit would Biſhops liuings fall for his Kinſmen, and perhapps they would be aſwel alſo contented to beare the names of Biſhops or Adminiſtra<g ref="char:EOLhyphen"/>tors, as the Lutheran Lord that hath gotten by his demeanour, the Reuerend
+<pb n="14" facs="tcp:178483:14"/> tytle, of the mad Biſhop of <hi>Halberstat;</hi> and as other the like doe in Germany, that gallantly ryde vpon their great horſes, in their apparell of all colours of the raynbow, with their rapiers by their ſides, and huge feathers in their hattes, and looke as like Biſhops, as Owles looke like Apes; which goodly Eccleſiaſticall ſtate and dignity, En<g ref="char:EOLhyphen"/>gliſh Puritans for Reformation ſake would perhaps be very well content to commend, (as well as their Puritan brethren in Scotland haue liked and a<g ref="char:EOLhyphen"/>lowed ſuch like ſtate and tytle to Lords and Gentlemen there) and eſpecially when they medled with no more but only with the diſplaced Biſhops li<g ref="char:EOLhyphen"/>uings, and leaue all buſineſſes belon<g ref="char:EOLhyphen"/>ging to the Word, wholy in the handes of Puritan-Miniſters, and Conſiſtory diſcipline.</p>
+            <p>But as the Hollanders and their correſpondent-brethren our Engliſh Puritanes, doe for their ſeuerall de<g ref="char:EOLhyphen"/>ſignes,
+<pb n="15" facs="tcp:178483:14"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:178483:15"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:178483:15"/> deſire nothing more then the not going forward of this Match, and in very deed, no match at all for this Prince, as before I haue noted; ſo to the contrary, all true and louing ſubiects to his Maieſty, and bearers of dutifull a<g ref="char:EOLhyphen"/>ffection to the Prince and countrey, ought to deſire it; and to deſire, that v<g ref="char:EOLhyphen"/>pon the accompliſhment thereof, iſſue may ſpeedily follow, becauſe heerin conſiſteth both his Maieſtyes, and the Princes ſafety. And this is all I can ſay vnto you fore preſent, concerning the match with Spayne.</p>
+            <p>As concerning your obiection a<g ref="char:EOLhyphen"/>bout difference of Religion. The Lady being, as you ſay a Papiſt, and to haue the free exerciſe of her Religion, and conſequently, the vſe of her Chappell and Maſſe in the Court, which you ſay wilbe an ey-ſore to the profeſſours of the Ghoſpell &amp;c. Vpon theſe your wordes I ſhalbe occaſioned to open my ſelfe further then els I ſhould haue byn
+<pb n="16" facs="tcp:178483:16"/> willing to doe, becauſe of giuing you ſome vnexpected diſguſt, when in ma<g ref="char:EOLhyphen"/>king anſwere vnto your ſpeeches I ſhalbe brought (if I muſt deale directly and playnly as with a friend) to de<g ref="char:EOLhyphen"/>clare this eye-ſore to be but a miſco<g ref="char:cmbAbbrStroke">̄</g>cea<g ref="char:EOLhyphen"/>ued ſorenes: for heerupon I know you will ſtraightways cenſure me to be tur<g ref="char:EOLhyphen"/>ned Papiſt, and condemne me of leui<g ref="char:EOLhyphen"/>ty for being ſo ſoone ſwarued from the light of your Ghoſpell, to the liking of a Religion ſo generally miſliked in En<g ref="char:EOLhyphen"/>gland, wherby I may ſtand in danger to looſe your loue, which very loath I would be to do, conſidering how ſin<g ref="char:EOLhyphen"/>cere I haue alwayes found it, and what reciprocall correſpondence I haue vſed for conſeruation of the ſame. The eſteeme wherof being indeed the grea<g ref="char:EOLhyphen"/>teſt cauſe that moueth me to be ſo care<g ref="char:EOLhyphen"/>full to endeauour ſo to excuſe myſelfe, that you may think me the leſſe blame<g ref="char:EOLhyphen"/>worthy, and conſequently the leſſe breach may be made in your good a<g ref="char:EOLhyphen"/>ffection
+<pb n="17" facs="tcp:178483:16"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:178483:17"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:178483:17"/> towardes me, ſeeing in myne towardes you (notwithſtanding diffe<g ref="char:EOLhyphen"/>rence of iudgme<g ref="char:cmbAbbrStroke">̄</g>t in Religion-matters) there is none at all; for I can ſee no rea<g ref="char:EOLhyphen"/>ſon to the contrary, but that men may beare themſelues in amity and Ciuill co<g ref="char:cmbAbbrStroke">̄</g>uerſation with one another, though the one be inclyned in conſcience to ſerue God in a different manner from the other, ſeeing euery man oweth his honeſt behauiour vnto men.</p>
+            <p>Well then, good Sir, vpon hope of reſeruation of your loue, &amp; that when you ſhall haue vnderſtood how thinges haue paſſed, you will conſider before you condemne me of leuity, whether I had any ſufficient motiues or no, to bethinke my ſelfe in matter of Reli<g ref="char:EOLhyphen"/>gion, more then I did, before I knew there was ſo great cauſe why I ſhould, I will heere endeauour to be accomp<g ref="char:EOLhyphen"/>table vnto you how things haue paſſed with me in this matter, ſince my co<g ref="char:EOLhyphen"/>ming out of England.</p>
+            <pb n="18" facs="tcp:178483:18"/>
+            <p>Whiles I liued in Engla<g ref="char:cmbAbbrStroke">̄</g>d I was, as you know, as ferue<g ref="char:cmbAbbrStroke">̄</g>t in our Proteſta<g ref="char:cmbAbbrStroke">̄</g>t religio<g ref="char:cmbAbbrStroke">̄</g> (wherin I was brought vp) as eyther your ſelfe or any in the Cou<g ref="char:cmbAbbrStroke">̄</g>trey can be. I was a great reader of Scripture, a great frequenter of Sermons, and a great hater of Papiſts. I often heard our preachers tell, that the Church of Rome was a lie<g ref="char:EOLhyphen"/>nated from her firſt purity, that it had entertayned many groſſe errors and corruptions, &amp; that forſooth the prea<g ref="char:EOLhyphen"/>chers of their Ghoſpell did reſtore and teach the very ſame doctrine, that was taught in the tyme of the Apoſtles and primitiue Church of Chriſt. This vpon their meere ſaying ſo, I confidently be<g ref="char:EOLhyphen"/>lieued, without euer making doubt thereof, or further enquiry for any proofe. But coming into Germany, whither my iourney was, as you know intended, for the ſeruice of the Prince <hi>Palatine,</hi> who we then called King of Bohemia, and there beholding the Lu<g ref="char:EOLhyphen"/>theran preachers to ſtand ſwaggering
+<pb n="19" facs="tcp:178483:18"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="18" facs="tcp:178483:19"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:178483:19"/> in their pulpits, with their mouthes as full of Scripture, as any of our Pulpit-mens in England might poſſibly be, and there to ſee them ſo to contemne, ſcorne &amp; deride our Engliſh preachers pretenſion of reſtoring Apoſtolicall re<g ref="char:EOLhyphen"/>ligion, as the moſt ridiculous ieſt in the world, I ſtood not a little amazed at the matter. Trauailing from Germany into Bohemia, there did I heare the Hu<g ref="char:EOLhyphen"/>ſſite-preachers as I had heard the Lu<g ref="char:EOLhyphen"/>therans before, condemne our doctrine of England, laugh and ſcof at our prea<g ref="char:EOLhyphen"/>chers pretenſion of primitiue truth, as a ieſt only to make ſport withall, not conteyning, nor carying therewith, ſo much as any ſhew of truth; which to my conſideration proued no ieſt at all.</p>
+            <p>Lighting after this, in the compa<g ref="char:EOLhyphen"/>ny of Anabaptiſts, with which albeit England be little acquainted, yet in theſe parts they will alſo be ſome body as wel as the reſt, ſeing they hold them<g ref="char:EOLhyphen"/>ſelues
+<pb n="20" facs="tcp:178483:20"/> to be as fluſh in Scripture as the proudeſt of their Competitors, they proteſted by yea, and by nay, that our Proteſtant Religion of England, was not conſonant, but contrary to the truth of the Ghoſpell of the Lord.</p>
+            <p>What might I thinke of the great boaſt which our Pulpit-maſters in En<g ref="char:EOLhyphen"/>gland make of the light of their Ghoſ<g ref="char:EOLhyphen"/>pell (who ſeeme where they are there alone, to be the only men at it, in the world) whe<g ref="char:cmbAbbrStroke">̄</g> heere in Germany I heard the Lutheran Preachers (whoſe Patri<g ref="char:EOLhyphen"/>arke <hi>Martin Luther</hi> we in England ſo much co<g ref="char:cmbAbbrStroke">̄</g>mend,) extoll the light of their owne Ghoſpell aboue the brightnes of the Sunne, &amp; make our Ghoſpell of En<g ref="char:EOLhyphen"/>gland more dimmer then a lanterne.</p>
+            <p>How might I maruell, thinke you, when I heard the Huſſite-preachers ſo much to ſcorne our Gods Word of En<g ref="char:EOLhyphen"/>gland, as if it were but the Word of Robin-hood.</p>
+            <p>And what might I imagine when
+<pb n="21" facs="tcp:178483:20"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:178483:21"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:178483:21"/> the Anabaptiſtes, that ſpeake nothing but Scripture, durſt challenge all our Rabins at no other weapon, but at the only Word, &amp; will alwayes be ready to continue the combat as long as they haue fingers to turne ouer leaues in the Bible.</p>
+            <p>But what labyrinth may you thinke me to haue lighted in, why in my tra<g ref="char:EOLhyphen"/>uails I hapned into an Inne where I had about myne eares all theſe at once; where I found my ſelfe enuyroned a<g ref="char:EOLhyphen"/>bout, with different Wordes of God, &amp; different Lights of the Ghoſpel; where when I went about to defend our Gho<g ref="char:EOLhyphen"/>ſpell of England, I had Bibles ſo faſt drawne out vpon me, that I knew not which way to turne me, but was fayne to ſtand as an Owle among other birdes, and with much impatience, pa<g ref="char:EOLhyphen"/>tiently heare our Gods Word of En<g ref="char:EOLhyphen"/>gland made the verieſt hotch-potch &amp; <hi>Olla-podrida</hi> of the world. They became ſo pleaſant and ſportfull with me, as to
+<pb n="22" facs="tcp:178483:22"/> aske me whether God had baniſhed his trueſt Religion into an Ile, and hembd it about with the ſea, to the end it ſhold dwell no where but there; intending thereby, that our Religion of England, both in fayth and in forme, was diffe<g ref="char:EOLhyphen"/>rent from all other Religions that now are extant: which when I would haue gaynſayed, they ſtrayghtwayes came vpon me with Temporall, and Femi<g ref="char:EOLhyphen"/>nine Eccleſiaſticall Iuriſdiction, and with pageants of little Popes, as though they had their inſtructions from Puri<g ref="char:EOLhyphen"/>tans and Browniſts.</p>
+            <p>Lord, how hartily did I wiſh that but ſome one of our great Pulpit-thun<g ref="char:EOLhyphen"/>derers had byn heere, that can talke ſo brauely in England before thoſe that belieue in him, to haue ſeene how theſe different kinds of Scripture-followes would haue Bible-baſtonaded him, and put him downe like a poore Snake: for verily there did neuer ſquirrell skip more nimbly from one bowgh vnto
+<pb n="23" facs="tcp:178483:22"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:178483:23"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="23" facs="tcp:178483:23"/> another in a tree, then do theſe fellowes from one text to another, in the old and new Teſtament.</p>
+            <p>Of all which, when I had well conſidered, there was nothing wherat I more ſtood amazed, then at my owne ignorance, whylſt I was in England; becauſe I did not apprehend any oppo<g ref="char:EOLhyphen"/>ſition to any purpoſe to be made againſt the Religion; there allowed, then that which was made agaynſt it by thoſe of the Church of Rome; and becauſe our Preachers could ſmoothly diſſemble theſe other oppoſites, and but little meddle with them, crying <hi>Crucifige</hi> lowdeſt of all agaynſt thoſe of the Church of Rome. But finding now a farre other matter, to wit, theſe ſeue<g ref="char:EOLhyphen"/>rall ſects ſo full of Scripture as none in England could be fuller, and theſe ſo contemptibly to deſpiſe, ſcorne &amp; hold moſt ridiculous our Engliſh proteſtant religion, as a very mock-religion; and in moſt ſerious aſſeueration of their
+<pb n="24" facs="tcp:178483:24"/> ſoules, to declare it to be the damnati<g ref="char:EOLhyphen"/>on of al their ſoules that follow it, what might I now imagine.</p>
+            <p>Finding them alſo to haue aſmuch ſenſe and vnderſtanding, as great ac<g ref="char:EOLhyphen"/>quaintance, as farre to haue trauayled in the Word, and as ready in their lan<g ref="char:EOLhyphen"/>guage to ſpeake &amp; defend their cauſes, as any in Engla<g ref="char:cmbAbbrStroke">̄</g>d, how Text-faſt ſoeuer he be, is able to do; and in fine, to pro<g ref="char:EOLhyphen"/>teſt with all zeale &amp; vehemency of ſpi<g ref="char:EOLhyphen"/>rit, his reſolution for the offering of his body, to the torments, and paynes of death, and his ſoule to the ſentence of ſaluation or damnation thereon; what could I find any of our profeſſing peo<g ref="char:EOLhyphen"/>ple in England to ſay more; and what reaſon had I now to reiect theſe, &amp; not to heare them ſpeake, as well as I had I heard our Pulpit-people in England, vnleſſe it ſhould only haue byn for their not being Engliſhmen, which were too poore a reaſon to be yielded vnto.</p>
+            <p>All this alſo conſidered, what I
+<pb n="25" facs="tcp:178483:24"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="24" facs="tcp:178483:25"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:178483:25"/> pray you, might I thinke, whether I were now in a perplexity or no I leaue your ſelfe to iudge? what reaſon did there now remayne to oblige me vnto our Engliſh Proteſtant Religion, other then becauſe it was the Religion of En<g ref="char:EOLhyphen"/>gland? and whether the following therof, becauſe it ſo was, could be a ſuffi<g ref="char:EOLhyphen"/>cient warrant for the proofe of it to be true Religion, and conſequently for the ſaluation of my ſoule, lying &amp; dy<g ref="char:EOLhyphen"/>ing therin?</p>
+            <p>Whylſt I ſtood in this amazement, hearing the Huſſites moſt reſolute in mayntayning the Reall Preſence of Chriſt in the Sacrament, and the Lu<g ref="char:EOLhyphen"/>therans alſo; the former by tranſub<g ref="char:EOLhyphen"/>ſtantiation, the later by conſubſtantia<g ref="char:EOLhyphen"/>tion, yet eyther affirming no ſigne, but the very ſame body that was borne of the Bleſſed Virgin Mary to be there; I was by this meanes brought to looke backe vnto the Chriſtian world of for<g ref="char:EOLhyphen"/>mer ages, and to thinke with my ſelfe
+<pb n="26" facs="tcp:178483:26"/> that if ſo be the ancient Church of Rome from which alſo theſe new con<g ref="char:EOLhyphen"/>gregations had deryued their Chriſtia<g ref="char:EOLhyphen"/>nity, was in proceſſe of tyme become alienated from her firſt purity, by ha<g ref="char:EOLhyphen"/>uing, as theſe pretend, nouriſhed and entertayned many corruptions; and that God would vouchſafe to benefit the world with a reſtauration or refor<g ref="char:EOLhyphen"/>mation of Religion according to her firſt purity, that it was not then like he would ſend ſo many togeather into the world about a reſtauration, wherein they ſhould be ſo oppoſite one vnto the other, that they ſhould goe about the ſetting it forward in ſundry diffe<g ref="char:EOLhyphen"/>rent faſhions, ech according to his owne manner; and ech condemning the endeauours of all the others, ſhould preferre his owne for the ſole and only truth. And ſeeing there can be but one fort of true Reformers, (if there be worke for them) and that all theſe pre<g ref="char:EOLhyphen"/>tenders the<g ref="char:cmbAbbrStroke">̄</g>ſelues doe confeſſe ſo much,
+<pb n="27" facs="tcp:178483:26"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="26" facs="tcp:178483:27"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="27" facs="tcp:178483:27"/> and ech of them (as no doubt our ſort in England doth in like ſort) pre<g ref="char:EOLhyphen"/>tend themſelues to be thoſe only true reformers, and conſequently to be di<g ref="char:EOLhyphen"/>rectly ſent from God into the world, with the priuiledge and commiſſion of reſtauration of true Religion, I thought my ſelfe bound in all right and conſ<g ref="char:EOLhyphen"/>cience to ſeeke to diſcouer by the beſt way, which thereunto I could poſſibly imagine to be moſt requiſite, which of all others this might be; wherin I alſo with my prayers beſeeched Almighty God his fauour and direction, relying vpon his promiſe, when he ſayth: He that ſeeketh, ſhall find.</p>
+            <p>Heereupon came a reſolution to my mynde, to demaund of theſe diffe<g ref="char:EOLhyphen"/>rent ſorts of Reformers, of ech a part &amp; in particuler what they could alleadge for themſelues, to declare &amp; proue vnto me, why their interpretation and vn<g ref="char:EOLhyphen"/>derſtanding of Scripture was better, &amp; ought to be followed more then that of
+<pb n="28" facs="tcp:178483:28"/> any of the others that differed from it. And of this I deſired to be certified, by ſome proofes and reaſons, as that ſort to whome I made the demaund could only alleage for it ſelfe, and none of the reſt for themſelues: but when all came to all, &amp; that I had moſt ſeriouſly dealt with ech of theſe apart, the ſatisfaction I got of the one was as good, as that I had of the other, albeit their vnder<g ref="char:EOLhyphen"/>ſtandings were neuer ſo different and contrary: for alwayes I found that af<g ref="char:EOLhyphen"/>ter many circu<g ref="char:cmbAbbrStroke">̄</g>loqutions before I could bring them to the matter (for euery ſort ſought by ſhifts &amp; exaſions to ſlip from giuing direct anſwere to the que<g ref="char:EOLhyphen"/>ſtion) in concluſion the proofe and aſſurance of hauing the true vnder<g ref="char:EOLhyphen"/>ſtanding and interpretation of Scrip<g ref="char:EOLhyphen"/>ture, was no other, then that they had it ech of them, within it ſelfe, deliuered vnto them by a certayne inward illu<g ref="char:EOLhyphen"/>mination of ſpirit. But when vpon this I told them, that I was now as farre to
+<pb n="29" facs="tcp:178483:28"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="28" facs="tcp:178483:29"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="29" facs="tcp:178483:29"/> ſeeke as before, becauſe ech ſort preten<g ref="char:EOLhyphen"/>ded his inward illumination of ſpirit; &amp; that I deſyred then to know, how I might be aſſured that any one of theſe illuminations of ſpirit was from God, and which it was; they told me I might know that, by that doctrine that was moſt conſonant vnto the Word of God. I demaunded which that was? None but ours, quoth the Huſſite: None but ours, quoth the Lutheran: None but ours quoth the Anabaptiſt, and ſo in like ſort any of our Engliſh Proteſtant Preachers would alſo haue ſayd, if he had byn heere among the reſt. But who ſhall iudge this, quoth I? Gods word quoth the one: Gods word quoth the other: and Gods word, quoth the third. But who ſhall ſhew me, quoth I, out of Gods word which it is, that Gods word ſo iudgeth. That will I, quoth the Huſ<g ref="char:EOLhyphen"/>ſyte: no, that will I, quoth the Luthe<g ref="char:EOLhyphen"/>ran: no, that will I, quoth the Anabap<g ref="char:EOLhyphen"/>tiſt, and ſo would as many and as more
+<pb n="30" facs="tcp:178483:30"/> haue ſayd, if they had all byn heere. In fine it came to no other concluſion but that ech would haue his truth, and true illumination of ſpirit, tryed by Gods word, but iuſt according as himſelfe would be the interpreter thereof: and heerby was I brought at laſt to be as far to ſeeke as at the firſt.</p>
+            <p>Conſider now I pray you, how well and wiſely I was adreſt. Truſt me if wiſhes might haue wrought their e<g ref="char:EOLhyphen"/>ffects, I deſyred nothing more then that you had byn preſent, with ſome two or three of the principall of your Paules-croſſe Preachers, to ſee what victory they could heere haue gotten a<g ref="char:EOLhyphen"/>boue the reſt, that fight there ſo valia<g ref="char:cmbAbbrStroke">̄</g>t<g ref="char:EOLhyphen"/>ly agaynſt the ayre, and make their au<g ref="char:EOLhyphen"/>ditory belieue that the dwelling place of Gods word is only in their mouthes. My experie<g ref="char:cmbAbbrStroke">̄</g>ce in this buſines, hath em<g ref="char:EOLhyphen"/>boldned me to deliuer it thus plainly vnto you, as it was, and further to tell you, that not long after I had left this
+<pb n="31" facs="tcp:178483:30"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="30" facs="tcp:178483:31"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="31" facs="tcp:178483:31"/> diſcordant company, I mett with one of our Engliſh Rabbins, who held him<g ref="char:EOLhyphen"/>ſelfe for no ſmall foole neyther, and I propoſed vnto him the ſame queſtion: and I aſſure you he delt ſo honeſtly and plainly with me, that he gaue me iuſt the ſame anſwere; &amp; ſo left me as much beholding vnto him, for good ſatisfa<g ref="char:EOLhyphen"/>ction, as had done the others before him.</p>
+            <p>Truſt me, good Sir, I had neuer thought that our pretence and bragge of our Ghoſpells light in England, had ſtood vpon ſo weake a foundation, as now I haue byn taught to diſcerne it, and yet by no Papiſt neyther. A man heerby may ſee what it is to be nuzled vp in deceyt and foolery, and himſelfe not to know it.</p>
+            <p>You may ſee, by that which heere I haue ſayd, I haue not byn careleſſe but curious in the ſeeking of ſuch ſatisfa<g ref="char:EOLhyphen"/>ction as is moſt requiſite &amp; reaſonablee but you would haue wondred, if you
+<pb n="32" facs="tcp:178483:32"/> had byn preſent to ſee with what tricks and ſhifts ech of theſe ſought to diuert and put of his anſwering to the queſti<g ref="char:EOLhyphen"/>on, of giuing me aſſured knowledge of his illumination of ſpirit; howbeit I loſt not all my labour, for all of them in the end gaue me aſſured knowledge, that this their inward illumination, that euery one is aſſured of, aſwel as the other, is but a meere bable to beguile fooles. Wherof hauing ſo cleerly diſco<g ref="char:EOLhyphen"/>uered the vanity and folly, I muſt de<g ref="char:EOLhyphen"/>ſyre you to giue me leaue, no longer to make a foole of my ſelfe.</p>
+            <p>And albeit I had continued vntill now, my auerſion from the Church of Rome; yet conſidering that Huſſytes, Lutherans, Anabaptiſts, and Calui<g ref="char:EOLhyphen"/>niſts, (for by the name of Caluiniſts our Proteſtants in England are of all theſe others called, aſwell as of the Ca<g ref="char:EOLhyphen"/>tholikes) had al played the run-awayes from the ſayd Roman Church, &amp; were now become the accuſers thereof, but
+<pb n="33" facs="tcp:178483:32"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="32" facs="tcp:178483:33"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="33" facs="tcp:178483:33"/> with different accuſations, I conſide<g ref="char:EOLhyphen"/>red with my ſelfe that if the accuſers of <hi>Suſanna</hi> were proued falſe, &amp; ſhe inno<g ref="char:EOLhyphen"/>cent vpon the diſagreeme<g ref="char:cmbAbbrStroke">̄</g>t of two wit<g ref="char:EOLhyphen"/>neſſes in their accuſation, how much the more may the Church of Rome be deemed innocent, when there is ſo great a diſagreement found in foure of her principall accuſers. Vpon this mo<g ref="char:EOLhyphen"/>tiue I reſolued to ſeeke to haue confe<g ref="char:EOLhyphen"/>rence with ſome ſufficient learned man of that Religion, which by the meanes that I vſed I attayned vnto, but bearing my ſelfe ſtill as an earneſt Proteſtant; &amp; I found myſelf ſo confuted in my al<g ref="char:EOLhyphen"/>leaging of the Proteſtants reaſons and arguments, that I neuer imagined them to haue byn ſo weake; nor did I euer thinke that ſo much could be ſayd of ſo great force for the contrary.</p>
+            <p>I found alſo very manifeſtly that diuers pointes which our preachers in England make vs belieue they hold, are very calumnies and ſlaunders, and that
+<pb n="34" facs="tcp:178483:34"/> they hold them not at all. But it is a matter of ſtate for Engliſh Miniſters to make Catholikes and Catholike religi<g ref="char:EOLhyphen"/>on odious to the people; matter of ſtate I meane for themſelues, becauſe their owne eſtate depends vpon their Prote<g ref="char:EOLhyphen"/>ſtant Religion, that Religion being their trade they liue by.</p>
+            <p>But as touching the Maſſe, and ſuch points as they doe hould, I haue had ſuch proofes and reaſons ſhewed me that I do not now maruell that the greateſt, and moſt potent part of Chriſtendome ſtill remayneth in that Religion; and that diuers in France, Germany, and the Netherlandes aſwell as in England, do forſake Proteſtancy, and other late and new riſen opinions, and returne vnto this ancient and vni<g ref="char:EOLhyphen"/>uerſall fayth of the Chriſtian world.</p>
+            <p>Me thinkes I now heare you aske me, where the Maſſe is found in Scrip<g ref="char:EOLhyphen"/>ture? But to this, I may aske you &amp; all the Proteſtants in the world, where
+<pb n="35" facs="tcp:178483:34"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="34" facs="tcp:178483:35"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="35" facs="tcp:178483:35"/> they can ſhew me out of the Scripture, after what manner the Apoſtles them<g ref="char:EOLhyphen"/>ſelues did celebrate this Sacrament? Chriſt inſtituted it at night, and after ſupper in the ſame paued Parlour, &amp; at the ſame table whereat he had ſupped, occaſioned thereunto by reaſon of the lytle tyme he had, being from thence to goe into the garden of <hi>Gethſemani,</hi> to make his prayers and preparation to his paſſio<g ref="char:cmbAbbrStroke">̄</g>. That the Apoſtles celebrated al<g ref="char:EOLhyphen"/>ſo in paued Parlours, at ſupping tables, at night, after they had ſupped, and not in the morning, and being faſting; that they had no women preſent at it, ſeeing Chriſt had none, no not his own Mother, notwithſta<g ref="char:cmbAbbrStroke">̄</g>ding her great worthynes. In what manner they tooke the bread and bleſſed it, what ſpeeches, action, or ceremony heerin was vſed; whether they vſed the ſame hymne that was ſayd before Chriſt his riſing vp fro<g ref="char:cmbAbbrStroke">̄</g> the table; what hymne that was, or what other prayers, hymns, or by what
+<pb n="36" facs="tcp:178483:36"/> ſpeeches or ceremonies they ſhewed our Lords death, where can they deli<g ref="char:EOLhyphen"/>uer vs notice of all this? Was there no forme or order ſet downe, and vſed by the Apoſtles, &amp; left by them vnto ſuc<g ref="char:EOLhyphen"/>ceeding Chriſtians to follow? Or was it left ſo raw and vnordered that they knew not of any forme, or manner of celebration thereof at all? Who can i<g ref="char:EOLhyphen"/>magine the Apoſtles to haue byn ſo careleſſe and improuident? <hi>S. Paul</hi> tel<g ref="char:EOLhyphen"/>leth vs the contrary, when hauing ſpoken of Chriſt his inſtitution of this Sacrament, he promiſeth to ſet the reſt (thereunto belonging) in order, at his comming vnto thoſe, to whome he wrote of the ſame.</p>
+            <p>When the Huſſites began their pre<g ref="char:EOLhyphen"/>tended reformation of Religion, ac<g ref="char:EOLhyphen"/>cording as they ſayd to the tyme of the Apoſtles, they tooke away no Altars out of Churches, but left them ſtan<g ref="char:EOLhyphen"/>ding, and ſayd Maſſe at them, as yet they continue to do.</p>
+            <pb n="37" facs="tcp:178483:36"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="36" facs="tcp:178483:37"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="37" facs="tcp:178483:37"/>
+            <p>When <hi>Luther</hi> an hundreth yeares after this, began his pretended Refor<g ref="char:EOLhyphen"/>mation, which he alſo ſayd was accor<g ref="char:EOLhyphen"/>ding the the tyme of the Apoſtles, he tooke away no Altars neyther, but ce<g ref="char:EOLhyphen"/>lebrated at them, as do thoſe of his ſect in Germany at this day, calling the Sa<g ref="char:EOLhyphen"/>crament thereon celebrated, by no o<g ref="char:EOLhyphen"/>ther name, then <hi>the Sacrament of the Al<g ref="char:EOLhyphen"/>tar.</hi> But the firſt that began to celebrate vpon Houſe-tables were the Anabap<g ref="char:EOLhyphen"/>tiſts, who began ſome yeares after Lu<g ref="char:EOLhyphen"/>ther. And after theſe came the Calui<g ref="char:EOLhyphen"/>niſts, or diſciples of <hi>Caluin,</hi> whoſe do<g ref="char:EOLhyphen"/>ctrine we in England for the moſt part do follow, and theſe brake downe the Altars in Churches, &amp; brought houſe-tables and ſet them in their places, and theron celebrated their Communion, affirming this be a reformation accor<g ref="char:EOLhyphen"/>ding to the tyme of the Apoſtles, and primitiue Church of Chriſt.</p>
+            <p>Heere falleth now to be conſide<g ref="char:EOLhyphen"/>red, whether the firſt Chriſtians that
+<pb n="38" facs="tcp:178483:38"/> had the vſe of Churches, had in their Churches Altars or Houſe-tables. If they vſed firſt tables, then the queſtion is, when, by what order, and vpon what occaſion, were theſe tables cary<g ref="char:EOLhyphen"/>ed out, &amp; Altars builded in their ſteeds, as alſo what queſtion or diſpute hap<g ref="char:EOLhyphen"/>ned about this alteration, or what me<g ref="char:EOLhyphen"/>mory or notice is there left vnto the world of it, in any Eccleſiaſtical Annals or other Hiſtory. When Altars were by Caluiniſts broke<g ref="char:cmbAbbrStroke">̄</g> down in Churches &amp; co<g ref="char:cmbAbbrStroke">̄</g>munion-tables ſet in their places, all the world tooke notice thereof; and euen as much notice muſt there alſo haue byn taken, if at the firſt Houſe-tables had bin vſed in Churches, &amp; that afterward they had byn taken out, and Altars there erected.</p>
+            <p>
+               <hi>Franciſcus Aluares,</hi> who liued ſix yeares in <hi>Aethiopia</hi> among the Abiſſi<g ref="char:EOLhyphen"/>nes, writeth, that their Eccleſiaſticall Annales doe teſtify, that they had a Church built in their Countrey to the
+<pb n="39" facs="tcp:178483:38"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="38" facs="tcp:178483:39"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="39" facs="tcp:178483:39"/> honour of Chriſt, within ten yeares of his Aſcenſion, which Church there yet remayneth, and beareth the name as alwayes it hath done, of <hi>The Church of our Lady of mount Sion:</hi> and the reaſon why it is ſo called, is becauſe the ſtone whereof the Altar was builded, was brought thither from <hi>Mount Sion.</hi>
+            </p>
+            <p>Such teſtimony of the auncient vſe of Altars in Churches, is not only found among theſe ſo auncient Chri<g ref="char:EOLhyphen"/>ſtians, but among all other ancient Chriſtians of the world, beſydes thoſe of the Church of Rome, as among thoſe of the Greeke Church, thoſe of <hi>Cangranor,</hi> and <hi>Malabar</hi> in the eaſt <hi>In<g ref="char:EOLhyphen"/>dies</hi> that were conuerted by S. <hi>Thomas</hi> the Apoſtle, and by all other ancient Chriſtians of the world, albeit they de<g ref="char:EOLhyphen"/>pend not vpon the Church of Rome. And further can I tell you, that I haue ſeene a diſcourſe, which as yet is not printed, wherin is cleerly &amp; manifeſt<g ref="char:EOLhyphen"/>ly ſhewed, by moſt great and good ar<g ref="char:EOLhyphen"/>guments
+<pb n="40" facs="tcp:178483:40"/> that in all thoſe Countreyes wherein the Apoſtles themſelues prea<g ref="char:EOLhyphen"/>ched, and planted the Chriſtian fayth, they did leaue behind them the Maſſe, which hath from their tyme remayned among thoſe Chriſtians, and their ſuc<g ref="char:EOLhyphen"/>ceſſours vnto this day.</p>
+            <p>As touching the fayth and beliefe of the Reall preſence of Chriſt in the ſayd Sacrament, it neuer appeared that euer any one ma<g ref="char:cmbAbbrStroke">̄</g> in the Greeke Church did deny it, and in this fayth and be<g ref="char:EOLhyphen"/>lieue all the other moſt ancient and re<g ref="char:EOLhyphen"/>mote Chriſtians of the world are moſt confident, ſeing they haue had it <hi>ab ini<g ref="char:EOLhyphen"/>tio,</hi> and that it is deryued from the very mouth of Chriſt.</p>
+            <p>That Chriſt ſayd at his laſt ſupper, taking bread and bleſſing it, <hi>This is my body,</hi> no man can deny, That it is his body, but only Anabaptiſtes and Caluiniſts (two late riſen Sects) who doe deny it: if they ſpeake truly, then is not Chriſt to be belieued; if they
+<pb n="41" facs="tcp:178483:40"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="40" facs="tcp:178483:41"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="41" facs="tcp:178483:41"/> ſay he meant not as he ſayd, they make him a double dealer: but if he meant not as he ſayd, then are they to ſhew where it ſtandeth written in Gods word, that he meant it not; and not mea<g ref="char:EOLhyphen"/>ning it, where it is then written how he would haue his words vnderſtood. But who ſhall ſhew vs this? Or where, or when ſhall we find it?</p>
+            <p>That Chriſt was able when he tooke bread, bleſſed it and ſayd it was his body, to make it ſo to be, who can make doubt, that doubteth him not to be Chriſt, and conſequently God? and why is he not as well able to doe this as to doe with the ſame his owne naturall body ſundry other miracles aboue the courſe of nature.</p>
+            <p>When he ſaid that it was as eaſy for a camell to goe through the eye of a needle, as for a rich man to enter into the Kingdome of heauen, whereupon his diſciples asked him who could then be ſaued? he anſwered that with God
+<pb n="42" facs="tcp:178483:42"/> all thinges were poſſible. If then it be poſſible for a Camel or for a cable-rope to go through the eye of a needle, it is poſſible for the body of Chriſt to be in the Sacrament, and the more poſſible when he that is God himſelfe hath ſayd it.</p>
+            <p>When he had ſayd, that with God all thinges were poſſible, the Apoſtles were ſilent, and belieued it, for they replyed not to the co<g ref="char:cmbAbbrStroke">̄</g>trary, or by asking how it might be. So belieued they him alſo, when taking the bread at his laſt ſupper and bleſſing it, he ſaid it was his body, els had they alſo asked him, as they did of the Camels going through the eye of the needle, how it was poſ<g ref="char:EOLhyphen"/>ſible.</p>
+            <p>Manifeſt alſo it is, that all the an<g ref="char:EOLhyphen"/>cient Chriſtians of the world, beſides thoſe of the Church of Rome, haue eue<g ref="char:cmbAbbrStroke">̄</g> from the originall of their Chriſtianity belieued this. If now Anabaptiſts and Caluiniſts, that are but riſen vp in our
+<pb n="43" facs="tcp:178483:42"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="42" facs="tcp:178483:43"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="43" facs="tcp:178483:43"/> dayes, muſt be belieued in the deniall thereof, not only agaynſt their prece<g ref="char:EOLhyphen"/>dent competitours in Reformation, Huſſe and Luther, but agaynſt the Church of Rome, the Church of Greece, and all other ancient Chriſti<g ref="char:EOLhyphen"/>ans, reſyding in the farre and remote partes of Aſia and Africa; who can be<g ref="char:EOLhyphen"/>lieue when he hath well reflected vpon theſe thinges, and aboue all, vpon the foundation of this fayth, which ſtan<g ref="char:EOLhyphen"/>deth vpon the very wordes of Chriſt his owne mouth, and from no where els is deriued, that he can heerin be de<g ref="char:EOLhyphen"/>ceaued? Seeing Chriſt in no iuſtice or equity, can condemne any man of miſ<g ref="char:EOLhyphen"/>beliefe, for belieuing that which him<g ref="char:EOLhyphen"/>ſelfe telleth him ſo to be (yea albeit it were not ſo: which cannot be, ſeeing himſelfe is all truth, and that vnto him being alſo God, there is nothing impo<g ref="char:EOLhyphen"/>ſſible) and ſeeing alſo that none of his Apoſtles did euer after declare vnto the world, that he meant not as he ſayd, &amp;
+<pb n="44" facs="tcp:178483:44"/> that notwithſtanding he ſpeake thoſe wordes, it was but the figure or ſigne of his body, and not his very body in<g ref="char:EOLhyphen"/>deed, as Caluiniſts &amp; Anabaptiſts now more then fifteene hundred yeares af<g ref="char:EOLhyphen"/>ter do teach vs. I am no Deuine as you know, yet could I not heere con<g ref="char:EOLhyphen"/>teyne within the compas of a Letter, if I ſhould enlarge my ſelfe with ſo much more as I could ſay concerning this matter, and with proofes of Scrip<g ref="char:EOLhyphen"/>tures, Fathers, and the ſucceſſiue vni<g ref="char:EOLhyphen"/>uerſall fayth and practiſe of Chtiſtians throughout the world, euer ſince the tyme of Chriſt.</p>
+            <p>This haue I done to let you ſee whe<g ref="char:EOLhyphen"/>ther I had reaſon or no, comming to ſo much knowledge and vnderſtanding of differences among ſo many late pre<g ref="char:EOLhyphen"/>tenders of reformation of Religion (&amp; truly to vnderſtand what the Catho<g ref="char:EOLhyphen"/>like religion holdeth and profeſſeth in<g ref="char:EOLhyphen"/>deed) to remayne ſtill a proteſtant, ſee<g ref="char:EOLhyphen"/>ing if ſo I had done, it muſt haue byn
+<pb n="45" facs="tcp:178483:44"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="44" facs="tcp:178483:45"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="45" facs="tcp:178483:45"/> for faſhions ſake only, and to runne in cry among the reſt, as ſome doe that will know no better, and others that can diſcerne no better, becauſe they come not where may they, or are idiots and want capacity to apprehend it.</p>
+            <p>Iudge now I pray you, hauing well conſidered of the premiſſes, whether there appeareth reaſon for my excuſe or not, and whether Proteſtants may haue reaſon to be ſo picquant and hatefull vnto Catholikes as they are, and not quietly to let them liue among them, &amp; enioy their Ciuill conuerſation, ſeeing Catholikes are no intruders vpon pro<g ref="char:EOLhyphen"/>teſtants, or bringers in of any nouelties among them, but the imbracers only of that fayth from which Proteſtants are falne, and all the reſt of their com<g ref="char:EOLhyphen"/>petitors in pretending diſcordant refor<g ref="char:EOLhyphen"/>mations, and wherein vnto this day the maieſty of Chriſtendome in fight of all the world yet remayneth, I meane the greater and the better part therof.
+<pb n="46" facs="tcp:178483:46"/> Wheras Caluiniſme (for by that Name our Proteſtant Religion of England paſſeth throughout all Chriſtendome among all Religions, except them<g ref="char:EOLhyphen"/>ſelues) being but new begon, is already ſplitted, and deuided into foure partes within it ſelfe, to wit, Proteſtants, Puritans, Browniſtes, and Arminians declining to decay, and chiefly ſuppor<g ref="char:EOLhyphen"/>ted by rebellion. Be not offended with me I beſeech you, I only ſpeake this in regard of truth, becauſe the truth is ſo, as the whole world can heerin beare me witnes, and not becauſe I would in ſpeaking thus, go about to vexe you.</p>
+            <p>And to let you ſee my indiffe<g ref="char:EOLhyphen"/>rency in ſpeaking as vnpartially of the reſt, you ſhall pleaſe alſo to vnderſtand: That the Huſſytes, and the others want not their diuiſio<g ref="char:cmbAbbrStroke">̄</g>s among them, aſwel as ours: for there are the old and the new Huſſytes; the rigide, and the ſoft, or myld Lutherans. And the Anabaptiſts being fulleſt of all the others of Scrip<g ref="char:EOLhyphen"/>tures,
+<pb n="47" facs="tcp:178483:46"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="46" facs="tcp:178483:47"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="47" facs="tcp:178483:47"/> are alſo fulleſt of all of diuiſions, for I haue counted among them fif<g ref="char:EOLhyphen"/>teene ſeuerall ſorts my ſelfe, and how many more there are, I know not.</p>
+            <p>But as ſor the Huſſytes and the Lu<g ref="char:EOLhyphen"/>therans, I haue exceedingly meruay<g ref="char:EOLhyphen"/>led at the cogging of <hi>M. Fox</hi> our En<g ref="char:EOLhyphen"/>gliſh Martyrologian, and of our Prea<g ref="char:EOLhyphen"/>chers in England, who for their Ghoſ<g ref="char:EOLhyphen"/>pells pouerty, haue ſo much extold <hi>Iohn Huſſe</hi> for a bleſſed martyr, and <hi>Martin Luther</hi> for a bleſſed confeſſour, (the one diſliking the doctrine of the other, and both being contrary vnto theirs) and to diſſemble and hyde from the knowledge of their audience, what the Huſſytes, and the Lutherans do preach and write of them; and how farre they are from fynding any Ghoſpell affinity between them, but contemne &amp; ſcorne their ſociety to the full, and haue no o<g ref="char:EOLhyphen"/>ther eſteeme of them, then of a com<g ref="char:EOLhyphen"/>pany of cocks crowing on their owne dunghills.</p>
+            <pb n="48" facs="tcp:178483:48"/>
+            <p>In Concluſion I muſt ſay vnto you, that if it pleaſe God, the Match with Spayne do ſucceed, I truſt it will proue to the great good &amp; tranquillity of our countrey, and will make England con<g ref="char:EOLhyphen"/>tinually participant of the wealth of Spayne, and the Countreys thereon de<g ref="char:EOLhyphen"/>pending, which ſeeing the rebellious Hollanders cannot enioy, they enuy that our Nation ſhould.</p>
+            <p>If the Match with Spaine ſucceed not) yet ſeeing Engliſhmen cannot liue pen'd in within the compaſſe of their countrey, as thoſe of <hi>China,</hi> between the ſea and a huge wall, but muſt tra<g ref="char:EOLhyphen"/>uayle and traffique abroad in ſo many flouriſhing Countreyes and places of Chriſtendome as are Catholike, they muſt needes be hatefull and odious to thoſe Nations, if it be knowne vnto them that they doe hate and perſecute Catholikes at home, they being mem<g ref="char:EOLhyphen"/>bers with them of one ſame body, to wit of one ſame Catholike fayth, and
+<pb n="49" facs="tcp:178483:48"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="48" facs="tcp:178483:49"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="49" facs="tcp:178483:49"/> Church, which is ſole and entiere, and conſiſteth not in ſplitted partes and di<g ref="char:EOLhyphen"/>uiſions; and hath laſted and continued in the world, when the world was vn<g ref="char:EOLhyphen"/>acquainted with Proteſtants; and will remayne in it when Proteſtants may happen to returne agayne to inuiſibili<g ref="char:EOLhyphen"/>ty, from whence they pretend, with as much reaſon to be aſſured, as either Hu<g ref="char:EOLhyphen"/>ſſytes, Lutherans, or Anabaptiſtes may do the like, and may alſo fynd as good allowance to be belieued without be<g ref="char:EOLhyphen"/>ing laughed at, as any of theſe, how late or ſooner before they crept out of the like obſcurity. Heere will I make an end of this letter, which I leaue vnto your good conſideration, and myſelfe in all the dutyes of affection at your commaund.</p>
+            <closer>
+               <dateline>From the place of my aboad <date>this 25. of Iuly 1622.</date>
+               </dateline>
+               <signed>You know the Hand, &amp; the lo<g ref="char:EOLhyphen"/>uing Hart of the VVriter.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="50" facs="tcp:178483:50"/>
+            <p>AFTER I had ended this letter there came vnto my handes a few verſes from a friend of myne, which (becauſe they ſomwhat concerne the purpoſe wherof I haue ſpoken) I heere ſend you alſo.</p>
+            <div type="poem">
+               <head>Vpon the hopefull Match betweene Prince <hi>Charles</hi> his Highnes, of <hi>Wales,</hi> and the Princeſse <hi>Mary</hi> Infant of <hi>Spayne.</hi>
+               </head>
+               <lg>
+                  <l>ON fames report, Hope hath fixt expectation,</l>
+                  <l>That in good time, the great match may ſucceed</l>
+                  <l>Wherof the world now ſtands in admiration,</l>
+                  <l>And it estemeth as a heauenly deed</l>
+                  <l>For earths repoſe, Becauſe a peacefull King,</l>
+                  <l>Is now ſo great an Actor in the thing.</l>
+               </lg>
+               <lg>
+                  <l>And his great Highnes, doth his worth diſcouer,</l>
+                  <l>And makes his Princely honour higher fam'd,</l>
+                  <l>By chooſing ſuch a Phenix for his louer,</l>
+                  <l>As to whoſe ſelfe, no equall can be nam'd:</l>
+                  <l>Since none there is on earth, of Adams race,</l>
+                  <l>That for all worths, may chalenge better place.</l>
+                  <l>N. Crynes</l>
+               </lg>
+               <pb n="51" facs="tcp:178483:50"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="50" facs="tcp:178483:51"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <lg>
+                  <pb n="51" facs="tcp:178483:51"/>
+                  <l>Vnto her Greatnes witnes giues the Sunne,</l>
+                  <l>Tasked no houre to shine at any hand,</l>
+                  <l>As he his courſe about the Globe doth runne,</l>
+                  <l>But on ſome part of her late Fathers land.</l>
+                  <l>An homage which he neuer did before,</l>
+                  <l>To any Prince, nor like to do no more,</l>
+               </lg>
+               <lg>
+                  <l>And for her feature, ſuch it doth appeare.</l>
+                  <l>That <hi>Rubens</hi> the <hi>Apelles</hi> of our dayes,</l>
+                  <l>Vnable to approach this beauty neere,</l>
+                  <l>Dares not attempt to paint his owne diſprayſe:</l>
+                  <l>But of this worke of Nature wondring standes,</l>
+                  <l>And lets his penſill fall from out his hands.</l>
+               </lg>
+               <lg>
+                  <l>As for her Vertues, I referre their prayſe</l>
+                  <l>Vnto the Heauens, who beſt know how to do it,</l>
+                  <l>Knowing I cannot from the low earth rayſe,</l>
+                  <l>Their altitude ſo high as longs vnto it,</l>
+                  <l>Nor yet how to begin, or to intend</l>
+                  <l>A worke wherin I ſee not any end,</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb n="50" facs="tcp:178483:52"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="51" facs="tcp:178483:52"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:178483:53"/>
+            <pb facs="tcp:178483:53"/>
+         </div>
+      </body>
+   </text>
+</TEI>
